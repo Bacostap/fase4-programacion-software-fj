@@ -1,0 +1,18 @@
+[2026-11-20 20:22:47] EVENTO: Inicio del sistema Software FJ en memoria.
+[2026-11-20 20:22:47] EVENTO: Se registro el cliente Camila Torres con documento 10154321
+[2026-11-20 20:22:47] EVENTO: Se registro el cliente Andres Rojas con documento 79854123
+[2026-11-20 20:22:47] ERROR: Operacion 3 controlada: Error en los datos: El correo 'juanperez.gmail.com' no es valido.
+[2026-11-20 20:22:47] EVENTO: Se registro el cliente Camila Copia con documento 10154321
+[2026-11-20 20:22:47] ERROR: Operacion 4 controlada: Error en los datos: El documento 10154321 ya esta registrado.
+[2026-11-20 20:22:47] EVENTO: Servicio de sala creado: Sala Juntas Principal (S01)
+[2026-11-20 20:22:47] EVENTO: Servicio de equipo creado: Combo Portatiles (E01)
+[2026-11-20 20:22:47] EVENTO: Servicio de asesoria creado: Soporte Redes (A01)
+[2026-11-20 20:22:47] ERROR: Operacion 8 controlada: Error en los datos: El valor por hora debe ser mayor a cero.
+[2026-11-20 20:22:47] EVENTO: Reserva R001 procesada para Camila Torres. Total: $160650.0
+[2026-11-20 20:22:47] EVENTO: Reserva R001 CONFIRMADA.
+[2026-11-20 20:22:47] ERROR: Operacion 10 controlada: Problema con la reserva: No se pudo procesar la reserva R002 | Causa: Servicio no disponible: El servicio 'Sala Juntas Principal' ya esta ocupado.
+[2026-11-20 20:22:47] EVENTO: Reserva R003 procesada para Andres Rojas. Total: $160000.0
+[2026-11-20 20:22:47] EVENTO: Reserva R003 CONFIRMADA.
+[2026-11-20 20:22:47] EVENTO: Reserva R001 CANCELADA.
+[2026-11-20 20:22:47] ERROR: Operacion 12b controlada: Accion no permitida: La reserva R001 ya estaba cancelada.
+[2026-11-20 20:22:47] EVENTO: Fin de la simulacion de las 12 operaciones.
